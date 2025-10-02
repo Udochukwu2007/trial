@@ -1,0 +1,86 @@
+.body{
+    height: 700px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    gap: 10px;
+}
+.menubox{
+    height: 500px;
+    width: 30%;
+    background-color: white;
+    margin-top: 90px;
+}
+.photo{
+    margin-left: 30px;
+    font-size: 40px;
+}
+.for{
+    margin-left: 80px;
+    letter-spacing: 7px;
+}
+.menu{
+    margin-left: 30px;
+    list-style: none;
+}
+.icons{
+    margin-left: 30px;
+    list-style-type: none;
+}
+.image{
+    height: 500px;
+    width: 70%;
+    background-image: url(abdul-muiz-khan-8VgzqtoCmO4-unsplash.jpg);
+    background-size: 100% 100%;
+    margin-top: 90px;
+    display: flex;
+    gap: 520px;
+}
+.text{
+    height: 380px;
+    width: 35%;
+    background-color: white;
+    margin-top: 30px;
+}
+.small{
+    font-size: 10px;
+}
+.large{
+    font-size: 40px;
+}
+.arrow{
+    height: 35px;
+    width: 160px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text2{
+    height: 60px;
+    width: 100px;
+    background-color: white;
+    margin-top: 45px;
+}
+.animal{
+    height: 100px;
+    width: 200px;
+    background-color: black;
+    margin-top: 200px;
+    
+}
+.monk{
+    height: 500px;
+    width: 60px;
+    background-color: #0000;
+}
+.nop{
+  height: 60px;
+  width: 61px;
+  background-color: white;
+margin-top: 376px;
+font-size: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
